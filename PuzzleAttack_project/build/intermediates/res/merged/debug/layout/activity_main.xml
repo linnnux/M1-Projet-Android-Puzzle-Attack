@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back"
+    android:gravity="center_horizontal"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/title" />
+
+    <TableLayout
+        android:id="@+id/tableLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/textView1">
+
+
+
+            <Button
+             android:id="@+id/buttonJouer"
+             android:layout_width="wrap_content"
+
+             android:layout_height="40dp"
+
+                android:layout_marginBottom="5dp"
+             android:background="@drawable/btn_clck"
+             android:text="@string/btn_jouer"
+                />
+
+
+        <Button
+        android:id="@+id/buttonSound"
+        android:layout_width="wrap_content"
+            android:layout_marginTop="40dp"
+
+        android:layout_height="40dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/btn_clck"
+        android:text="@string/btn_sonnon" />
+
+    <Button
+        android:id="@+id/about"
+        android:layout_marginTop="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/btn_clck"
+        android:text="@string/about" />
+
+
+
+    <Button
+        android:id="@+id/buttonQuitter"
+
+        android:background="@drawable/btn_clck"
+        android:text="@string/btn_quitter"
+        android:layout_marginTop="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        />
+
+</TableLayout>
+
+</RelativeLayout><!-- From: file:/home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/res/layout/activity_main.xml -->

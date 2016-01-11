@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:id="@+id/mhelp" 
+	      android:icon="@drawable/ic_help"
+	      android:title="@string/help"
+	      android:visible="false" android:enabled="false"/>
+	<item android:id="@+id/mabout" 
+	      android:icon="@drawable/ic_about"
+	      android:title="@string/about"
+	      android:visible="false" android:enabled="false"/>	      
+</menu>
+<!-- From: file:/home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/res/menu/main.xml -->

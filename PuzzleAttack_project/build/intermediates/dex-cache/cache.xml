@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="/home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/build/intermediates/pre-dexed/debug/android-support-v4-8918ede581246fc873439c99e5cf4f21a1c27063.jar" />
+    </item>
+
+</items>

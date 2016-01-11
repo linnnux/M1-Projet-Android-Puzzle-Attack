@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:2:1-26:12
+	xmlns:android
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:3:5-31
+	android:versionName
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:4:5-28
+		INJECTED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml
+		INJECTED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml
+application
+ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:7:5-24:19
+	android:label
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:11:9-40
+activity#com.puzzleAttack.MainActivity
+ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:13:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:18:27-74
+activity#com.puzzleAttack.PuzzleAttack
+ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:21:9-23:20
+	android:label
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:22:19-52
+	android:name
+		ADDED from /home/acer/Bureau/Puzzle_Attack/PuzzleAttack_project/AndroidManifest.xml:21:19-63
